@@ -1,0 +1,139 @@
+{
+    "Profile": {
+        "Name": "Preet R. Shah",
+        "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2FPreet%20Shah.jpg?alt=media&token=102ac54e-d395-4ee1-8484-fc7a1505da2f",
+        "Contact": "7738413927, 8097004627",
+        "Email": "preetshah21699@gmail.com",
+        "Github": "https://www.github.com/preetshah21699"
+    },
+    "Skills": {
+        "Soft": [
+            "Independent but Collaborative",
+            "Responsible",
+            "Excellent Communication",
+            "Problem Solving",
+            "Quick Learner",
+            "Punctual"
+        ],
+        "Technical":[
+            {
+                "Name": "Flutter",
+                "Type": "Mobile App Development",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fflutter.png?alt=media&token=7098208d-3f53-4021-b349-791273f04d74",
+                "Rating": "4/5"
+            },
+            {
+                "Name": "Dart",
+                "Type": "Programming Language",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fdart.png?alt=media&token=05e3b97a-df5a-43a1-a5e9-f79eeba09a16",
+                "Rating": "3/5"
+            },
+            {
+                "Name": "C++",
+                "Type": "Programming Language",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fcpp.png?alt=media&token=e37b9a58-9247-44ee-b171-e5cfdc55a748",
+                "Rating": "4/5"
+            },
+            {
+                "Name": "Python",
+                "Type": "Programming Language",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fpython.png?alt=media&token=c7d1ad69-2a1f-4fb8-87d8-58301adcebe2",
+                "Rating": "3/5"
+            },
+            {
+                "Name": "Java",
+                "Type": "Programming Language",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fjava.png?alt=media&token=13b4d610-46ef-490b-801b-fba5a9217090",
+                "Rating": "3/5"
+            },
+            {
+                "Name": "HTML",
+                "Type": "Web Development",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fhtml.png?alt=media&token=31ccf56e-324f-4988-9ae3-3587328ad3b4",
+                "Rating": "4/5"
+            },
+            {
+                "Name": "CSS",
+                "Type": "Web Development",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fcss.jpg?alt=media&token=4154e852-3959-4d8c-ae81-8b1899c29089",
+                "Rating": "3/5"
+            },
+            {
+                "Name": "JavaScript",
+                "Type": "Web Development",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fjs.png?alt=media&token=86cb466b-f49b-422d-b389-5ca63a72722b",
+                "Rating": "3/5"
+            },
+            {
+                "Name": "MS-SQL",
+                "Type": "Database Service",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fms-sql.png?alt=media&token=7082121f-2ae3-4c5a-b5cf-1bde07b1d728",
+                "Rating": "4/5"
+            },
+            {
+                "Name": "Firebase",
+                "Type": "Mobile/Web App Development Tool",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Ffirebase.png?alt=media&token=0af4f793-22d4-4459-88fc-c1232c4019a2",
+                "Rating": "4/5"
+            },
+            {
+                "Name": "MongoDB",
+                "Type": "Database Service",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fmongodb.jpg?alt=media&token=c6af28ce-b850-44af-80cc-c7310783df9c",
+                "Rating": "2/5"
+            }
+        ]
+    },
+    "Education": [
+        {
+            "Class": "B. E. in IT",
+            "Institution": "Dwarkadas J Sanghvi College of Engineering, Mumbai.",
+            "Score": "8.55 CGPA"
+        },
+        {
+            "Class": "HSC",
+            "Institution": "S. V. P. Junior College of Science and Commerce, Mumbai.",
+            "Score": "82%"
+        },
+        {
+            "Class": "SSC",
+            "Institution": "St. Xavier's High School, Mira Road(E).",
+            "Score": "85.60%"
+        }
+    ],
+    "Projects": [
+        {
+            "Title": "Fajr",
+            "Description": "An application for the Muslim community. The application contains various content related to their religion that they can easily read. Facilities such as \"Qiblah Direction\", \"Namaz Timings\" and \"Tasbeeh Counter\" facilitate a lot of their daily needs. It also notifies them when its time for reading Namaz. The entire app was made using Flutter.",
+            "Techstack": "Flutter",
+            "Link": "https://play.google.com/store/apps/details?id=com.dotsyndicate.fajr&hl=en",
+            "Images": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "Title": "FlauntIt",
+            "Description": "A website for people to share their collectibles with the world. The users can not only share their collections with the world but can also request the owners to buy their collectibles. The website allows users to \"Login/Sign Up\", \"View Collectibles\", \"Add Collectibles\", \"Edit Collectibles\", \"Like Collectibles\"  and \"Buy collectibles\"",
+            "Techstack": "NodeJS, HTML5, CSS3, JavaScript, MongoDB",
+            "Link": "https://github.com/Rahildesai7/FlauntIt",
+            "Images": [
+                "",
+                ""
+            ]
+        },
+        {
+            "Title": "Isle Royale",
+            "Description": "A Java Application that enables people to book rooms at \"Isle Royale\". The users can \"Login/Sign Up\", \"View Rooms\", \"Book Rooms\", \"Avail Discounts\" and \"Cancel Bookings\".",
+            "Techstack": "Java, Xampp",
+            "Link": "https://github.com/rishikachhabria/java-hotel-management",
+            "Images": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}
