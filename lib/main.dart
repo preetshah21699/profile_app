@@ -23,9 +23,19 @@ class MyApp extends StatelessWidget {
       routes: Routes.routes,
       initialRoute: '/',
       theme: ThemeData(
+        fontFamily: "PlayfairDisplay",
+        textTheme: TextTheme(
+          bodyText1: TextStyle(
+            color: Colors.white,
+          ),
+          bodyText2: TextStyle(
+            color: Colors.white,
+          ),
+        ),
+        canvasColor: Colors.grey[600],
         primarySwatch: Colors.teal,
         appBarTheme: AppBarTheme(
-          color: Colors.grey[800]
+          color: Colors.grey[900]
         ),
         backgroundColor: Colors.black,
         primaryColor: Colors.black,
@@ -35,7 +45,6 @@ class MyApp extends StatelessWidget {
           primary: Colors.black,
           surface: Colors.black,
           error: Colors.red,
-
         ),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
