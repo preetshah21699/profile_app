@@ -98,6 +98,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 builder: (context, AsyncSnapshot<DataSnapshot> snapshot){
                   if(snapshot.hasData){
                     Map<dynamic, dynamic> values = snapshot.data.value;
+                    List<dynamic> profiles = values["Profiles"];
                     // getImageURL();
                     // print(values["Image"]);
                     return Center(
@@ -196,42 +197,40 @@ class _MyHomePageState extends State<MyHomePage> {
                                   ),
                                 ),
                                 SizedBox(height: 15,),
+                                GridView.builder(
+                                  shrinkWrap: true,
+                                  primary: false,
+                                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                                    crossAxisCount: 3,
+                                  ),
+                                  itemCount: profiles.length,
+                                  itemBuilder: (context, index){
+                                    return Container(
+                                      // height: 50,
+                                      // width: 50,
+                                      padding: EdgeInsets.all(20),
+                                      child: GestureDetector(
+                                        child: Container(
+                                          // height: 40,
+                                          // width: 40,
+                                          decoration: BoxDecoration(
+                                            borderRadius: BorderRadius.circular(18),
+                                            image: DecorationImage(
+                                              image: NetworkImage(profiles[index]["Image"]),
+                                              fit: BoxFit.fill
+                                            )
+                                          ),
+                                        ),
+                                        onTap: () => {
+                                          launch(profiles[index]["link"]),
+                                        },
+                                      ),
+                                    );
+                                  },
+                                )
                               ],
                             ),
                           ),
-                          // Card(
-                          //   shape: RoundedRectangleBorder(
-                          //     borderRadius: BorderRadius.circular(18.0)
-                          //   ),
-                          //   color: Colors.grey[800],
-                          //   child: SizedBox(
-                          //     height: MediaQuery.of(context).size.height*0.35,
-                          //     width: MediaQuery.of(context).size.width*0.95,
-                          //     child: GridView.count(
-                          //       crossAxisCount: 3,
-                          //       children: <Widget>[
-                          //         GestureDetector(
-                          //           onTap: () => {
-                          //             // launch(values["Github"])
-                          //           },
-                          //           child: Text("GitHub"),
-                          //         ),
-                          //         GestureDetector(
-                          //           onTap: () => {
-                          //             // launch(values["Github"])
-                          //           },
-                          //           child: Text("StackOverflow"),
-                          //         ),
-                          //         GestureDetector(
-                          //           onTap: () => {
-                          //             // launch(values["Github"])
-                          //           },
-                          //           child: Text("LinkedIn"),
-                          //         ),
-                          //       ],
-                          //     ),
-                          //   ),
-                          // ),
                         ],
                       ),
                     );

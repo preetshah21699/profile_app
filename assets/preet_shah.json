@@ -7,44 +7,28 @@
         "Email": "preetshah21699@gmail.com",
         "Profiles": [
             {
-                "Image": "",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fgithub.jpg?alt=media&token=191eac26-e1d0-4abf-921d-2dbf088ef1c7",
                 "link": "https://github.com/preetshah21699"
             },
             {
-                "Image": "",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fstackoverflow.png?alt=media&token=a1bf7fd7-585a-4b0b-888f-cb5ef8f7a8c0",
                 "link": "https://stackoverflow.com/users/10018291/preet-shah"
             },
             {
-                "Image": "",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fhackerrank.png?alt=media&token=fe9e84f3-039a-4e5e-b92b-36b586e63d02",
                 "link": "https://www.hackerrank.com/preetshah21699"
             },
             {
-                "Image": "",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fhackerearth.png?alt=media&token=057c2b41-6b2a-404d-b82f-1799a8f3b678",
                 "link": "https://www.hackerearth.com/@preetshah21699"
             },
             {
-                "Image": "",
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Flinkedin.png?alt=media&token=c2466074-9643-4db5-9e67-a4669e85d6a5",
                 "link": "https://www.linkedin.com/in/preet-shah-19606a143/"
             },
             {
-                "Image": "",
-                "link": ""
-            },
-            {
-                "Image": "",
-                "link": ""
-            },
-            {
-                "Image": "",
-                "link": ""
-            },
-            {
-                "Image": "",
-                "link": ""
-            },
-            {
-                "Image": "",
-                "link": ""
+                "Image": "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2Fdevfolio.png?alt=media&token=5243616d-14ab-4250-98cc-377d63d4e0f7",
+                "link": "https://devfolio.co/@Preetshah99"
             }
         ],
         "SoftSkills": "Independent but Collaborative, Responsible, Excellent Communication, Problem Solving, Quick Learner, Punctual"
@@ -167,7 +151,7 @@
             "Description": "A website for people to share their collectibles with the world. The users can not only share their collections with the world but can also request the owners to buy their collectibles. The website allows users to \"Login/Sign Up\", \"View Collectibles\", \"Add Collectibles\", \"Edit Collectibles\", \"Like Collectibles\"  and \"Buy collectibles\"",
             "Techstack": "NodeJS, HTML5, CSS3, JavaScript, MongoDB",
             "Link": "https://github.com/Rahildesai7/FlauntIt",
-            "height": 0.27,
+            "height": 0.24,
             "Images": [
                 "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2FFI%201.png?alt=media&token=405e355d-3ccf-49f3-b20b-237c76dded69",
                 "https://firebasestorage.googleapis.com/v0/b/preetprofile-1fbee.appspot.com/o/images%2FFI%202.png?alt=media&token=0cf4d9e6-ce58-424c-9697-cb2e78c932e5",
