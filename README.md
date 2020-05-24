@@ -4,7 +4,7 @@ A Flutter application designed to display the work profile of a person. The data
 
 ## Screenshots
 
-![Home Page](https://github.com/preetshah21699/preet_shah/Screenshots/PS_1.png)
+![Home Page](/Screenshots/PS_1.png)
 ![Drawer](https://github.com/preetshah21699/preet_shah/Screenshots/PS_2.png)
 ![Technical Skills](https://github.com/preetshah21699/preet_shah/Screenshots/PS_3.png)
 ![Projects](https://github.com/preetshah21699/preet_shah/Screenshots/PS_4.png)
