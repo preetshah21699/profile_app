@@ -4,12 +4,12 @@ A Flutter application designed to display the work profile of a person. The data
 
 ## Screenshots
 
-![Home Page](https://github.com/preetshah21699/preet_shah/Screenshots/PS 1.png)
-![Drawer](https://github.com/preetshah21699/preet_shah/Screenshots/PS 2.png)
-![Technical Skills](https://github.com/preetshah21699/preet_shah/Screenshots/PS 3.png)
-![Projects](https://github.com/preetshah21699/preet_shah/Screenshots/PS 4.png)
-![Education](https://github.com/preetshah21699/preet_shah/Screenshots/PS 5.png)
-![Contact Me](https://github.com/preetshah21699/preet_shah/Screenshots/PS 6.png)
+![Home Page](https://github.com/preetshah21699/preet_shah/Screenshots/PS_1.png)
+![Drawer](https://github.com/preetshah21699/preet_shah/Screenshots/PS_2.png)
+![Technical Skills](https://github.com/preetshah21699/preet_shah/Screenshots/PS_3.png)
+![Projects](https://github.com/preetshah21699/preet_shah/Screenshots/PS_4.png)
+![Education](https://github.com/preetshah21699/preet_shah/Screenshots/PS_5.png)
+![Contact Me](https://github.com/preetshah21699/preet_shah/Screenshots/PS_6.png)
 
 ## Getting Started
 
