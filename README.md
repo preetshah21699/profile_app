@@ -1,4 +1,4 @@
-# preet_shah
+# Profile App
 
 A Flutter application designed to display the work profile of a person. The data is retrieved from Firebase, the images are stored on Firebase.
 
